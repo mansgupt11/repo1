@@ -1,6 +1,0 @@
-modifying file1
-again modified
-modifying file1 for git diff
-modifying file1 for second time for  git diff
-complte statement 1
-complte statement 2
